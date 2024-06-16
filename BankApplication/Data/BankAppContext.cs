@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using BankApplication.Data.models;
+﻿using BankApplication.Data.models;
 using BankApplication.Data.Models;
 using Microsoft.EntityFrameworkCore;
 

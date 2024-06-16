@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
-
-namespace BankApplication.Data.Models
+﻿namespace BankApplication.Data.Models
 {
     public class AccountLedger
     {

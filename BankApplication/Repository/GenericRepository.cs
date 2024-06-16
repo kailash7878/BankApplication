@@ -1,8 +1,6 @@
-﻿//using BankApplication.Data;
-using BankApplication.Data;
+﻿using BankApplication.Data;
 using BankApplication.Intereface;
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
 using System.Linq.Expressions;
 
 namespace BankApplication.Repository

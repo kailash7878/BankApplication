@@ -4,8 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BankApplication.Controllers
-{
-    
+{   
     public class CustomerController : BaseController
     {
         private readonly ICustomer _customer;

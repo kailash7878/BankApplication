@@ -1,10 +1,7 @@
 ﻿using BankApplication.Common;
-using BankApplication.Data;
 using BankApplication.Data.models;
 using BankApplication.Intereface;
 using BankApplication.Models;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 
 namespace BankApplication.Services
 {
